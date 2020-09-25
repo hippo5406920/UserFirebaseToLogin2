@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1054909912610-cju50s5n7l2627ct4moek3b8f8q4dqph.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1054909912610-cju50s5n7l2627ct4moek3b8f8q4dqph</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCCLaG4vjsRsuIO3G_K4GXREH3ilI4PKwk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1054909912610</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Hippo.DrinkDemo</string>
+	<key>PROJECT_ID</key>
+	<string>logindemo-cd021</string>
+	<key>STORAGE_BUCKET</key>
+	<string>logindemo-cd021.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1054909912610:ios:a089714605126d555f1c7b</string>
+	<key>DATABASE_URL</key>
+	<string>https://logindemo-cd021.firebaseio.com</string>
+</dict>
+</plist>
